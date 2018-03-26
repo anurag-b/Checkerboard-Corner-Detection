@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dark_knight/ImageProcessing/HW3/HW3F.cpp
+iostream
+/home/dark_knight/ImageProcessing/HW3/iostream
+opencv2/highgui/highgui.hpp
+/home/dark_knight/ImageProcessing/HW3/opencv2/highgui/highgui.hpp
+opencv2/imgproc/imgproc.hpp
+/home/dark_knight/ImageProcessing/HW3/opencv2/imgproc/imgproc.hpp
+opencv2/opencv.hpp
+/home/dark_knight/ImageProcessing/HW3/opencv2/opencv.hpp
+fstream
+-
+

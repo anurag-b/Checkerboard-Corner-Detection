@@ -1,0 +1,1 @@
+/home/dark_knight/ImageProcessing/HW3/CMakeFiles/HW3.dir
